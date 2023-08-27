@@ -1,0 +1,4 @@
+BasedOnStyle: Microsoft
+IndentCaseLabels: true
+UseTab: true
+IndentWidth: 4
